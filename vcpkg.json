@@ -1,0 +1,9 @@
+{
+  "name" : "curseforge-fingerprint",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "78ba9711d30c64a6b40462c72f356c681e2255f3",
+  "dependencies" : [ {
+    "name" : "boost-iostreams",
+    "version>=" : "1.83.0"
+  } ]
+}
